@@ -1,5 +1,6 @@
 ---
 title: nord tui jekyll
+layout: default
 ---
 
 # NORD TUI JEKYLL THEME
