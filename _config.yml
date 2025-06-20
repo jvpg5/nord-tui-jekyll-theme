@@ -1,5 +1,5 @@
-title: tonic-starter
-description: ""
+title: nord-tui-jekyll-theme
+description: "A jekyll theme replicating TUI using nord colors"
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
